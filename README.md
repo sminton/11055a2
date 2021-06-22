@@ -1,5 +1,6 @@
-#Assignment 2, Programming for Designers
-##Instructions
+# Assignment 2, Programming for Designers
+
+## Instructions
 
 This is the readme file for your second assignment.  Edit this file using markdown formatting to provide additional information for your tutor to read as they are marking your exercises. You can use [StackEdit](https://stackedit.io/), which is a handy online markdown editor - just write your document and copy the markdown from there into this readmen file!
 
